@@ -5,4 +5,5 @@
 git config --global user.email адрес@gmail.com
 ```
 
-[< Содержание](./readme.md)
+---
+[< Содержание](./readme.md) | [Далее >](./init.md)
